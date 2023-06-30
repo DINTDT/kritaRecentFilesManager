@@ -16,11 +16,11 @@ desynched.
  1. To install locally, **download** this repo, and compress it into a .zip file.
  From GitHub, you can download the repo directly as a .zip file.
  2. **Install** the plugin:
-  - If you have the .zip file, open Krita, then go to Tools > Scripts > Install
-  Python Plugin from File..., then select the .zip file.
-  - You can instead install the plugin with the repository URL. Open Krita, then
-  go to Tools > Scripts > Install Python Plugin from Web..., then paste this
-  repository's URL.
+    - If you have the .zip file, open Krita, then go to Tools > Scripts > Install
+    Python Plugin from File..., then select the .zip file.
+    - ~You can instead install the plugin with the repository URL. Open Krita, then
+    go to Tools > Scripts > Install Python Plugin from Web..., then paste this
+    repository's URL.~ This method seems to not be working at the moment.
  3. **Restart** Krita. This way, it will recognize the recently installed plugin.
  4. **Enable** the plugin. Go to Settings > Configure Krita... > Python Plugin
  Manager (in the menu on the left). From the plugins list, find "Recent Files
