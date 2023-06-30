@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=recentFilesManager
+X-Python-2-Compatible=false
+X-Krita-Manual=manual.html
+Name=Recent Files Manager
+Comment=Gives options for individual recent files.
