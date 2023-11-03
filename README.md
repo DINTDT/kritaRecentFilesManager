@@ -9,7 +9,7 @@ you to reorder them and/or delete them individually.
 
 The "Update List" button will reload the list of recent files. Use this to
 view new files you've opened, and to fix the list if it ever gets
-desynched.
+desynced.
 
 ## Installation
 
@@ -47,5 +47,5 @@ This does not delete the file from your disk.
 
 ## Notes
 
-The plugin has only been tested on Krita 5.1.5, although I would assume it works
+The plugin has only been tested on Krita 5.1.5 and above, although I would assume it works
 on previous versions of Krita 5 just fine.
